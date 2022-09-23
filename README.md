@@ -1,7 +1,14 @@
 ### 📜 Available Scripts
 
 In the project directory, you can run:
+#### `npm i`
 
+EveryTimes when you want to develop, please check out this code you have done it.
+Avoid an installation package that you have not downloaded that prevents the program from being activated.
+
+#### `!!creact a branch!!`
+
+Make sure you creact a branch before you start that avoids our "main" is overwritten by your program.
 #### `npm start`
 
 Runs the app in the development mode.\

@@ -23,4 +23,6 @@ Open [] to view the website design
 4. Router Path：小寫駝峰
 
 ### 🚀 第三方packages
+- [Iconify](https://iconify.design/)：icon
+- [Mui](https://mui.com/material-ui/getting-started/installation/)
 
